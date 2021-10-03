@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sickcallfuu</title>
+    <link>http://sickcallfuu.github.io/</link>
+    <description>Recent content on sickcallfuu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Oct 2021 01:32:57 -0500</lastBuildDate><atom:link href="http://sickcallfuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abc</title>
+      <link>http://sickcallfuu.github.io/posts/abc/</link>
+      <pubDate>Sun, 03 Oct 2021 01:32:57 -0500</pubDate>
+      
+      <guid>http://sickcallfuu.github.io/posts/abc/</guid>
+      <description>This is just a test. Last week I got a really bad migraine that knocked me out for 2 days. I ordered groceries &amp;ndash;which is something I really never do&amp;ndash; and requested 2 cans of ready-to-bake biscuit dough. I hadn&amp;rsquo;t eaten in days and went through the canned biscuits fast&amp;hellip; I ate a whole can in one day. I regret it a little bit.</description>
+    </item>
+    
+  </channel>
+</rss>

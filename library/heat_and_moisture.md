@@ -1,3 +1,0 @@
-So, when the Nile, the stream with seven mouths, recedes from the soaked fields and carries back its waters to the bed they had before, and slime, still fresh, dries underneath the sun, the farmers, turning over clods, discover some who are newly born, who've just begun to take their forms, and others who are still unfinished, incomplete-they've not achieved proportion; and indeed, in one same body, one part may be alive already, while another is a lump of shapeless soil.
-
-For, tempering each other, heat and moisture engender life: the union of these two produces everything. Though it is true that fire is the enemy of water, moist heat is the creator of all things: discordant concord is the path life needs.
